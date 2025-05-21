@@ -85,4 +85,4 @@ pip install -r requirements.txt
 
 ---
 
-如需详细代码和流程，请参考 `aistudio.ipynb`。如有问题欢迎提 issue 或交流！
+如需详细代码和流程，请参考 `lora_jgw.ipynb`。如有问题欢迎提 issue 或交流！
